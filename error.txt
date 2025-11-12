@@ -1,6 +1,5 @@
-factorialR Error: factorialR,-15. The value: -15 is invalid.
-factorialR Error: factorialR,abc. The value: abc is invalid.
-isPrimeR Error: isPrimeR,abc. The value: abc is invalid.
-Command Error: bogusCommandR,1. Command entered is invalid — bogusCommandR
-sumR Error: The value r is invalid
-
+Invalid input for factorialR (not a non-negative integer): -15
+Invalid input for factorialR (not a non-negative integer): abc
+Invalid input for isPrimeR (not a non-negative integer): abc
+Invalid command: bogusCommandR (line: bogusCommandR,1)
+Invalid number in sumR: r (line: sumR,1,2,r,f,5,6)
